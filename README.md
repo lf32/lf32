@@ -1,4 +1,4 @@
-### Hi there 👋 <lf32> here.
+### Hi there 👋 \<lf32/> here.
 
 I would like to tell you few interesting things about me
 - I'm an Elite VIM user.
