@@ -1,8 +1,16 @@
-### Hi there 👋 \<lf32/> here.
+## Hi there 👋 \<lf32/> here.
 
-I would like to tell you few interesting things about me
-- DevSecOps Enthusiast.
-- I'm an Elite VIM user.
-- Just another Gentoo fanboy using Kali as a Kernel Hacker.
-- An avid Capture The Flag Player, for the team [IIT(BHU)CyberSec](https://ctftime.org/team/22546).
-- Additionally, being an Offensive Security Researcher, I'm also a Bug Bounty hunter.
+### $ whoami
+
+_I'm a passionate __DevSecOps Enthusiast__ with a knack for versatility._
+
+Here are a few key facts about me:
+- I'm an experienced VIM user who's also been known to dabble in Emacs
+- Proud Gentoo aficionado and a skilled Linux Kernel Hacker
+- An avid Capture The Flag Player, part of the formidable team [IIT(BHU)CyberSec](https://ctftime.org/team/22546).
+- In addition to all of this, I'm a dedicated Offensive Security Researcher and a seasoned Bug Bounty hunter.
+
+__Besides that__
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
+> __So, offer me a goddamn JOB!__
