@@ -1,4 +1,4 @@
-## Hi there 👋 \<lf32/> here.
+## Hi there 👋 0xlf32 here.
 
 ### $ whoami
 
