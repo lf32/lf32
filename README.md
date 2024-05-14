@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-# Hi there 👋 0xlf32 here.
+# Hi there 👋 lf32 here.
 
 ### $ whoami
 
