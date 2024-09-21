@@ -4,7 +4,7 @@
 
 ### $ whoami
 
-_I'm a passionate __Software Development & Security Enthusiast__ with a knack for versatility._
+_I'm a passionate __Software Development Enthusiast__ with a knack for versatility and ofcourse a Christian._
 
 Here are a few key facts about me:
 - I'm an experienced VIM user who's also been known to dabble in Emacs
