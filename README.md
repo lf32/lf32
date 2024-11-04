@@ -1,5 +1,3 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=t5y4nQ5Y1V8)
-
 # Hi there 👋 lf32 here.
 
 ### $ whoami
