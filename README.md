@@ -8,6 +8,6 @@ _I'm a passionate __Computer Security Enthusiast__ with a knack for versatility.
 
 Here are a few key facts about me:
 - I'm an experienced VIM user who's also been known to dabble in Emacs
-- GSoC'22 [NexB](https://github.com/nexb), LFX'22 [TheLinuxFoundation](https://github.com/linuxfoundation)
+- GSoC'22 [NexB](https://github.com/nexb), LFX'22 [TheLinuxFoundation](https://github.com/linuxfoundation), Hacker [@Hackerone](https://hackerone.com/lf32?type=user)
 - Proud Gentoo aficionado and a skilled Linux Kernel Hacker
 - A hobbyist Programmer, love to write Offensive Tools in C/C++ and Assembly
