@@ -11,3 +11,4 @@ Here are a few key facts about me:
 - GSoC'22 [NexB](https://github.com/nexb), LFX'22 [TheLinuxFoundation](https://github.com/linuxfoundation), Hacker [@Hackerone](https://hackerone.com/lf32?type=user)
 - Proud Gentoo aficionado and a skilled Linux Kernel Hacker
 - A hobbyist Programmer, love to write Offensive Tools in C/C++ and Assembly
+- If God decompiles my code, maybe I'll get the patch to touch grass IRL.
