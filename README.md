@@ -1,4 +1,4 @@
-# Hi there 👋 lf32 here.
+# Hi there 👋 \<lf32/> here.
 
 <img width="1053" alt="altboy" src="https://github.com/user-attachments/assets/7bcf67c1-4038-45da-9cb6-6fdd894dc3f0">
 
@@ -12,3 +12,7 @@ Here are a few key facts about me:
 - Proud Gentoo aficionado and a skilled Linux Kernel Hacker
 - A hobbyist Programmer, love to write Offensive Tools in C/C++ and Assembly
 - If God decompiles my code, maybe I'll get the patch to touch grass IRL.
+
+<!--START_SECTION:activity-->
+
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
