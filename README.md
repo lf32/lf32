@@ -10,6 +10,7 @@ Here are a few key facts about me:
 - I'm an experienced VIM user who's also been known to dabble in Emacs
 - GSoC'22 [NexB](https://github.com/nexb), LFX'22 [TheLinuxFoundation](https://github.com/linuxfoundation), Hacker [@Hackerone](https://hackerone.com/lf32?type=user)
 - Proud Gentoo aficionado and a skilled Linux Kernel Hacker
+- CTF player [@IIT(BHU)CyberSec](https://ctftime.org/team/22546) and Omniscient [@HackTheBox](https://app.hackthebox.com/profile/1593397)
 - A hobbyist Programmer, love to write Offensive Tools in C/C++ and Assembly
 - If God decompiles my code, maybe I'll get the patch to touch grass IRL.
 
