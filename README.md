@@ -2,7 +2,7 @@
 
 <img width="1053" alt="altboy" src="https://github.com/user-attachments/assets/7bcf67c1-4038-45da-9cb6-6fdd894dc3f0">
 
-### $ whoami
+## $ whoami
 
 _I'm a passionate __Computer Security Enthusiast__ with a knack for versatility._
 
@@ -13,6 +13,8 @@ Here are a few key facts about me:
 - A hobbyist Programmer, love to write Offensive Tools in C/C++ and Assembly
 - If God decompiles my code, maybe I'll get the patch to touch grass IRL.
 
+## :zap: Github Activity
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#21046](https://github.com/argoproj/argo-cd/pull/21046) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 2. 🎉 Merged PR [#1](https://github.com/lf32/argo-cd/pull/1) in [lf32/argo-cd](https://github.com/lf32/argo-cd)
@@ -21,4 +23,12 @@ Here are a few key facts about me:
 5. 💪 Opened PR [#41](https://github.com/soulpage/fullstack-assignment/pull/41) in [soulpage/fullstack-assignment](https://github.com/soulpage/fullstack-assignment)
 <!--END_SECTION:activity-->
 
+<pre>
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/lf32dev">𝕏</a>
+├─◈ <a href="https://www.linkedin.com/in/lf32">LinkedIn</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
