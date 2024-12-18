@@ -1,6 +1,6 @@
 # Hi there 👋 \<lf32/> here.
 
-<img width="1053" alt="altboy" src="https://github.com/user-attachments/assets/7bcf67c1-4038-45da-9cb6-6fdd894dc3f0">
+<img width="1053" alt="altboy" src="https://github.com/user-attachments/assets/6c5e4864-a389-4500-8f0c-2a0a55114d01" />
 
 ## $ whoami
 
