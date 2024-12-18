@@ -32,4 +32,3 @@ Here are a few key facts about me:
 │
 └───────────────────────────────▰▰▰
 </pre>
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
