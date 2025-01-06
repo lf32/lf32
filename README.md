@@ -28,6 +28,8 @@ Here are a few key facts about me:
 5. 💪 Opened PR [#41](https://github.com/soulpage/fullstack-assignment/pull/41) in [soulpage/fullstack-assignment](https://github.com/soulpage/fullstack-assignment)
 <!--END_SECTION:activity-->
 
+<img src="https://profile-counter.glitch.me/lf32/count.svg" align="right" width="25%"/>
+
 <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
@@ -35,5 +37,4 @@ Here are a few key facts about me:
 ├─◈ <a href="https://www.linkedin.com/in/lf32">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
-</pre> <img src="https://profile-counter.glitch.me/lf32/count.svg" align="right" width="25%"/>
-
+</pre>
