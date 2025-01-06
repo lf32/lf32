@@ -21,6 +21,11 @@ Here are a few key facts about me:
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#21046](https://github.com/argoproj/argo-cd/pull/21046) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+2. 🎉 Merged PR [#1](https://github.com/lf32/argo-cd/pull/1) in [lf32/argo-cd](https://github.com/lf32/argo-cd)
+3. 💪 Opened PR [#1](https://github.com/lf32/argo-cd/pull/1) in [lf32/argo-cd](https://github.com/lf32/argo-cd)
+4. ❌ Closed PR [#41](https://github.com/soulpage/fullstack-assignment/pull/41) in [soulpage/fullstack-assignment](https://github.com/soulpage/fullstack-assignment)
+5. 💪 Opened PR [#41](https://github.com/soulpage/fullstack-assignment/pull/41) in [soulpage/fullstack-assignment](https://github.com/soulpage/fullstack-assignment)
 <!--END_SECTION:activity-->
 
 <pre>
