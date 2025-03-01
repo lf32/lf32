@@ -9,9 +9,10 @@ _I'm a Nerdy __Computer Science Enthusiast__ with a knack for versatility._
 Here are a few key facts about me:
 - I'm an experienced VIM user.
 - GSoC'22 [NexB](https://github.com/nexb), LFX'22 [TheLinuxFoundation](https://github.com/linuxfoundation)
-- A skilled Linux Kernel Developer.
-- A hobbyist Programmer, love to write Productive Tools in C/C++, Python & Rust.
-- View my [resume](https://www.overleaf.com/read/dggtyzjscjwj#0e9ec7) to find out more about my experiences. 
+- A skilled Linux Kernel Hacker and an Offensive Security Researcher.
+- I play CTFs for the team [IIT(BHU)CyberSec](https://ctftime.org/team/22546)
+- View my [resume](https://www.overleaf.com/read/dggtyzjscjwj#0e9ec7) to find out more about my experiences.
+- A hobbyist Programmer, love to write Productive Tools in Python & Rust
 - If God decompiles my code, maybe I'll get the patch to touch grass IRL.
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
