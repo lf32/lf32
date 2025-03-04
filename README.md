@@ -1,6 +1,6 @@
-## Hi there 👋 <lf32/> here.
+# Hi there 👋 \<lf32/> here.
 
-# Whoami
+### $ Whoami
 
 I'm a Nerdy Computer Science Engineer with a knack for versatility.
 
