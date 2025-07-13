@@ -1,5 +1,5 @@
 ## Hi there  \<lf32/> here 👋
-> Just a tech.
+> I tinker with malicious software
 
 ### KEY FINGERPRINT
 ```
