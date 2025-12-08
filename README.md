@@ -1,5 +1,6 @@
-## Hi there  \<lf32/> here 👋
-> I tinker with malicious software
+## Hi there, lf32 here 👋
+
+![bip](https://pbs.twimg.com/media/G7gpBj-WMAIAjkZ?format=jpg)
 
 ### KEY FINGERPRINT
 ```
