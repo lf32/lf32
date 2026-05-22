@@ -1,7 +1,5 @@
 ## Hi there, lf32 here 👋
 
-![bip](https://pbs.twimg.com/media/G7gpBj-WMAIAjkZ?format=jpg)
-
 ### KEY FINGERPRINT
 ```
 1F557E5DF7BCBA93FD0C71F85054D4046EF37944
