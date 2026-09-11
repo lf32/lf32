@@ -1,6 +1,6 @@
 ## Hi there 👋 lf32 here
 
-> Be Everything, Touch Nothing
+> Be Everything, Touch Everything, But Totally This Time.
 <!--
 **lf32/lf32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
